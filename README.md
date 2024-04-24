@@ -64,6 +64,8 @@ or want to furnish their knowledge, we have a provided a platform to learn
 ```
     After installation, Double click the start.bat file
 ```
+https://github.com/EcoSeeds/Trading-Bot/assets/167324311/711c24c2-48c7-481b-b234-1748022c6b4c
+
 # Manual Installation
 
 ### Download Node.js installer and install
