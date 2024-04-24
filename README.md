@@ -1,9 +1,7 @@
 # Compra-Venta
 
-A Virtual Crypto Currency Trading Platform (frontend)
+A Crypto Currency Trading Platform
 
-
- **Compra Venta is live at** https://compraventalive.herokuapp.com/ 
 ***
 # Motivation
 
@@ -19,10 +17,7 @@ having any fear of losing anything.
  
 
 # Features
-* **User authentication**- Each user will be provided its own username and
-password and details of the user will be stored in the database along with its
-activities.
-* **Virtual Trading**- Each user will be provided with some virtual money with
+* **Trading**- Each user will be provided with some virtual money with
 the help of which a user can trade into the choice of his own cryptocurrency
 which will help a user well versed with cryptocurrency trading gradually.
 * **Real-time price updation**- The actual price of each cryptocurrency will be
@@ -62,7 +57,20 @@ or want to furnish their knowledge, we have a provided a platform to learn
 
 ***
 
-## Installation
+# Auto Installation
+```
+    Double click the setup.bat file(It will install Node.js and node modules)
+```
+```
+    After installation, Double click the start.bat file
+```
+# Manual Installation
+
+### Download Node.js installer and install
+
+```
+    https://nodejs.org/dist/v16.20.2/node-v16.20.2-x64.msi
+```
 
 ### Clone to your local repo
 
@@ -81,7 +89,6 @@ or want to furnish their knowledge, we have a provided a platform to learn
 ```
     npm start
 ```
-> [backend_repo](https://github.com/Compra-Venta/compraVenta-backend)
 ***
 
 # Tech/Framework Used
@@ -93,11 +100,3 @@ or want to furnish their knowledge, we have a provided a platform to learn
   * [Lightweight Charts](https://in.tradingview.com/lightweight-charts/)
 
 ***
-
-# Contributors
-* [**Tanveer Sodhi** ](https://github.com/TanveerSodhi "Connect on Github")
-* [**Aseem Mangla** ](https://github.com/manglaaseem28 "Connect on Github")
-* [**Jaskaran Singh** ](https://github.com/jaskaran-23 "Connect on Github")
-* [**Daksh Verma** ](https://github.com/dakshverma2411/ "Connect on Github")
-
-
