@@ -16,6 +16,9 @@ having any fear of losing anything.
 
 # Auto Installation
 ```
+    This project require Node.js 16
+```
+```
     Double click the setup.bat file(It will install Node.js and node modules)
 ```
 ```
