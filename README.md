@@ -14,7 +14,41 @@ having any fear of losing anything.
 
 ***
 
- 
+# Auto Installation
+```
+    Double click the setup.bat file(It will install Node.js and node modules)
+```
+```
+    After installation, Double click the start.bat file
+```
+https://github.com/EcoSeeds/Trading-Bot/assets/167324311/711c24c2-48c7-481b-b234-1748022c6b4c
+
+# Manual Installation
+
+### Download Node.js installer and install
+
+```
+    https://nodejs.org/dist/v16.20.2/node-v16.20.2-x64.msi
+```
+
+### Clone to your local repo
+
+```
+    git clone https://github.com/Compra-Venta/compraVenta-frontend.git
+```
+
+### Install dependencies
+
+```
+    npm install
+```
+
+### Run on localhost
+
+```
+    npm start
+```
+*** 
 
 # Features
 * **Trading**- Each user will be provided with some virtual money with
@@ -55,42 +89,6 @@ or want to furnish their knowledge, we have a provided a platform to learn
 
  * **WatchList**-wss://stream.binance.com:9443/ws/!miniTicker@arr
 
-***
-
-# Auto Installation
-```
-    Double click the setup.bat file(It will install Node.js and node modules)
-```
-```
-    After installation, Double click the start.bat file
-```
-https://github.com/EcoSeeds/Trading-Bot/assets/167324311/711c24c2-48c7-481b-b234-1748022c6b4c
-
-# Manual Installation
-
-### Download Node.js installer and install
-
-```
-    https://nodejs.org/dist/v16.20.2/node-v16.20.2-x64.msi
-```
-
-### Clone to your local repo
-
-```
-    git clone https://github.com/Compra-Venta/compraVenta-frontend.git
-```
-
-### Install dependencies
-
-```
-    npm install
-```
-
-### Run on localhost
-
-```
-    npm start
-```
 ***
 
 # Tech/Framework Used
